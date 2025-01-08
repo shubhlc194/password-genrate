@@ -103,7 +103,7 @@ function calcStrength() {
 let copyMessage = document.querySelector("[copyMessage]");
 let copyBtn = document.querySelector(".copyBtn");
 let passwordDisplay = document.querySelector("input[passwordDisplay]");
-// passwordDisplay.value = "My Name is Priyansh";
+ passwordDisplay.value = " hii My Name is shubham chaudhary ";
 
 // Why we use it - https://stackoverflow.com/questions/45071353/copy-text-string-on-click#:~:text=15-,Use%20the%20Clipboard,-API!
 async function copyContent() {
